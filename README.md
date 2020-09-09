@@ -1,2 +1,2 @@
 # TransactionMonitor
-Monitor of @Transactional in Spring Data
+Monitor of annotation Transactional in Spring Data
